@@ -1,0 +1,5 @@
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+asyncpg==0.28.0      # Driver asíncrono para PostgreSQL (ideal para concurrencia)
+aio-pika==9.3.0      # Cliente asíncrono para RabbitMQ
+pydantic==2.5.2

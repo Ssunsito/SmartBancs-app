@@ -38,5 +38,20 @@ services:
       timeout: 5s
       retries: 5
 
+  api:
+      build:
+        context: ./backend
+      container_name: smartbancs_api
+      ports:
+        - "8000:8000"
+      environment:
+        - DATABASE_URL=postgresql://smartbancs_user:supersecretpassword@db:5432/smartbancs
+        - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+      depends_on:
+        db:
+          condition: service_healthy
+        rabbitmq:
+          condition: service_healthy
+
 volumes:
   pgdata:
