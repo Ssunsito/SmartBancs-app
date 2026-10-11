@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: smartbancs_db
+    environment:
+      POSTGRES_USER: smartbancs_user
+      POSTGRES_PASSWORD: supersecretpassword
+      POSTGRES_DB: smartbancs
+    ports:
+      - "5432:5432"
+    volumes:
+      # Mapea el script SQL para que se ejecute al iniciar por primera vez
+      - ./database/scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
+      # Volumen persistente para que los datos no se borren al bajar el contenedor
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U smartbancs_user -d smartbancs"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: smartbancs_rabbitmq
+    ports:
+      # Puerto para la comunicación de los microservicios
+      - "5672:5672"
+      # Puerto para la interfaz gráfica de administración (ideal para la demostración)
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: admin
+      RABBITMQ_DEFAULT_PASS: admin123
+    healthcheck:
+      test: rabbitmq-diagnostics -q ping
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pgdata:
