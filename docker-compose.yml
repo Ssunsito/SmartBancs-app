@@ -11,9 +11,7 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      # Mapea el script SQL para que se ejecute al iniciar por primera vez
       - ./database/scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
-      # Volumen persistente para que los datos no se borren al bajar el contenedor
       - pgdata:/var/lib/postgresql/data
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U smartbancs_user -d smartbancs"]
@@ -27,7 +25,7 @@ services:
     ports:
       # Puerto para la comunicación de los microservicios
       - "5672:5672"
-      # Puerto para la interfaz gráfica de administración (ideal para la demostración)
+      # Puerto para la interfaz gráfica de administración
       - "15672:15672"
     environment:
       RABBITMQ_DEFAULT_USER: admin
@@ -53,5 +51,24 @@ services:
         rabbitmq:
           condition: service_healthy
 
+  ia_worker:
+    build:
+      context: ./ia_mock
+    container_name: smartbancs_ia_worker
+    environment:
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+
+  etl_worker:
+    build:
+      context: ./etl_process
+    container_name: smartbancs_etl_worker
+    volumes:
+      # Este mapeo permite que el archivo generado en Docker aparezca en tu computadora
+      - ./etl_process/data:/app/data
+      
 volumes:
   pgdata:
+  

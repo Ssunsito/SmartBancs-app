@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "monto": 50.0,
+        "fecha": "2026-10-01",
+        "estado": "COMPLETADA",
+        "moneda": "USD"
+    },
+    {
+        "id": 3,
+        "monto": 1500.5,
+        "fecha": "2026-10-02",
+        "estado": "FALLIDA",
+        "moneda": "USD"
+    }
+]
