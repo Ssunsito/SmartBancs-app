@@ -1,0 +1,252 @@
+[
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.0
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.15
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.3
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.45
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.6
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.75
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.9
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.05
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.2
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.35
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.65
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.8
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.95
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.1
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.25
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.4
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.55
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.7
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.85
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.0
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.15
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.3
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.45
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.6
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.75
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.9
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.05
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.2
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.35
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.65
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.8
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.95
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.1
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.25
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.4
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.55
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.7
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.85
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.0
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.15
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.3
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.45
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.6
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.75
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.9
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 17.05
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 17.2
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 17.35
+    }
+]

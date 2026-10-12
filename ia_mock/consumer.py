@@ -1,8 +1,10 @@
 import pika
 import json
 import time
+import os
 
-RABBITMQ_URL = "amqp://admin:admin123@localhost:5672/"
+# Lee la URL inyectada por Docker Compose. Si no existe, usa localhost como respaldo.
+RABBITMQ_URL = os.getenv("RABBITMQ_URL", "amqp://admin:admin123@localhost:5672/")
 
 def procesar_ia(ch, method, properties, body):
     payload = json.loads(body)
@@ -18,6 +20,7 @@ def procesar_ia(ch, method, properties, body):
     ch.basic_ack(delivery_tag=method.delivery_tag)
 
 def main():
+    print(f"[IA-Mock] Conectando al broker en: {RABBITMQ_URL}")
     connection = pika.BlockingConnection(pika.URLParameters(RABBITMQ_URL))
     channel = connection.channel()
     channel.queue_declare(queue="cola_inferencia_ia", durable=True)
@@ -28,4 +31,6 @@ def main():
     channel.start_consuming()
 
 if __name__ == "__main__":
+    # Pequeña pausa inicial para asegurar que RabbitMQ esté completamente listo antes de conectar
+    time.sleep(5)
     main()

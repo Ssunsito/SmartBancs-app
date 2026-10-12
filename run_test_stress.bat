@@ -14,7 +14,7 @@ pause
 echo.
 echo Ejecutando peticiones concurrentes...
 echo.
-python stress_test.py
+python backend\tests\stress_test.py
 
 echo.
 echo ==========================================================

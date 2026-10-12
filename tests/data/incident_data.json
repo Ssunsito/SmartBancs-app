@@ -1,0 +1,1002 @@
+[
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    },
+    {
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5
+    },
+    {
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5
+    }
+]

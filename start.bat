@@ -1,8 +1,9 @@
 @echo off
 echo ==========================================================
-echo Instalando dependencias locales para scripts de prueba...
+echo Configurando entorno y generando datos de prueba...
 echo ==========================================================
 pip install aiohttp
+python backend\tests\generate_test_data.py
 
 echo.
 echo ==========================================================

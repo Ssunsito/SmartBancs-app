@@ -14,7 +14,7 @@ pause
 echo.
 echo Ejecutando simulacro de incidente...
 echo.
-python simulate_incident.py
+python backend\tests\simulate_incident.py
 
 echo.
 echo ==========================================================

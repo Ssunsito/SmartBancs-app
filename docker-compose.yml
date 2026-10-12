@@ -65,10 +65,14 @@ services:
     build:
       context: ./etl_process
     container_name: smartbancs_etl_worker
+    environment:
+      - DATABASE_URL=postgresql://smartbancs_user:supersecretpassword@db:5432/smartbancs
+    depends_on:
+      db:
+        condition: service_healthy
     volumes:
-      # Este mapeo permite que el archivo generado en Docker aparezca en tu computadora
       - ./etl_process/data:/app/data
-      
+
 volumes:
   pgdata:
   
