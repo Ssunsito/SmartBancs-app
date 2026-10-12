@@ -13,7 +13,7 @@ La solución implementa una **Arquitectura Orientada a Eventos (EDA)**:
 
 ---
 
-## ⚙️ 1. Prerrequisitos
+## 1. Prerrequisitos
 
 Para instalar y ejecutar esta solución, el entorno debe contar con:
 * **Docker y Docker Compose** instalados y en ejecución.
@@ -22,7 +22,7 @@ Para instalar y ejecutar esta solución, el entorno debe contar con:
 
 ---
 
-## 🚀 2. Instalación y Ejecución
+## 2. Instalación y Ejecución
 
 La infraestructura y todos los microservicios se levantan mediante un único comando automatizado que instala dependencias locales y orquesta los contenedores.
 
@@ -43,7 +43,7 @@ start.bat
 
 ---
 
-## 🧪 3. Probar la Solución (Escenarios de Evaluación)
+## 3. Probar la Solución (Escenarios de Evaluación)
 
 El proyecto incluye un generador de datos dinámico y scripts de simulación automatizados para validar los criterios técnicos del reto. Mantenga abierta la consola de logs (`start.bat`) mientras ejecuta las pruebas para observar la telemetría en tiempo real.
 
@@ -66,7 +66,7 @@ Inyecta 200 transacciones cruzadas para forzar una colisión de bloqueos en Post
 
 ---
 
-## 🛑 4. Detener la Solución
+## 4. Detener la Solución
 
 Para apagar de forma segura toda la infraestructura, liberar los puertos y detener los contenedores, ejecute en la raíz del proyecto:
 
