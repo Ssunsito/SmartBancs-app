@@ -1374,5 +1374,565 @@
         "monto": 50.0,
         "estado": "COMPLETADA",
         "fecha_transaccion": "2026-10-12 00:09:27"
+    },
+    {
+        "id": "a75ef405-cfb7-466f-af6f-6183f3677971",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.75,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "904a0f4c-99bd-4665-8da2-581d15dbfd8a",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.0,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "894fa83d-6032-4399-8dc5-fc34392cb50f",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.85,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "2d7fcd6e-69ea-45b6-9ced-32b610298994",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.95,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "7df43667-b23e-4910-a1f0-9713deb83275",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.05,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "b22aee2e-3de2-4cd3-9b65-ae0b074a3901",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.45,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "0eed2c4b-0449-4f7c-bd42-70ff97588a3a",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.6,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "91784cbc-148e-40e8-92e7-1ed0b402a00f",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.55,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "0ea19ad6-4af6-48c8-adb9-9d233cb336f6",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.1,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "2ef94d1a-41d4-42a7-baef-162e8f8d364a",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.35,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "2b451612-1ac4-4be8-bc8f-317494d3e7d4",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.3,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "b2953e50-0b6a-4e07-ac26-da02542293bd",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.2,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "fcecf29c-0eb4-4bd7-b7ce-faa02d364378",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.25,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "8f357607-b400-42ff-9bc4-88723067114e",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.45,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "069e1cdf-4021-4b4c-b0b2-9fd8683ef66c",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "135e9875-b540-4120-b70e-65eb02460971",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.9,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "e2baed4e-54a9-4807-b360-f0380b71f103",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.65,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "8bc56740-8dfe-443c-88ca-71c2c7391849",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.75,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "1f8adeb2-9160-46a3-918f-be1adaaef2e2",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.8,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "28ac392c-146e-42a3-9c59-07ee4649af8e",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.55,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "21bc9ef9-f8a2-41d0-84a3-3be30a2ceba6",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.15,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "824de78a-30c8-4aa1-bee3-cf169f79a807",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.75,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "916e20bc-14f0-42fc-84f8-cbed19ea7ec7",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.9,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "f816a4b7-900d-48f6-be3d-7bf34606b3da",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.7,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "38d8a602-9f91-49e5-ae71-1a457ef75308",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.05,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "0f455cc6-0fee-4920-b3f7-a4a2896f7206",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.95,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "b7f69308-8a10-4956-a8fb-db54a3bc719b",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.9,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "dc5efbfa-7304-485d-a41c-331fe378297e",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 14.8,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "61321c69-421b-4572-b5c6-99de2e253ea1",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.2,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "e76504fd-6a34-4b62-a026-15ceb534d501",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 17.05,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "cc5f9dce-48d3-48ad-9bec-eb216fc4225c",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.1,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "ac6f1db9-ccb3-4a67-bae3-f32c2a9ad04e",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.0,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "3e28472e-cf91-47c3-895f-785afc2ebc13",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.35,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "0e330f44-a413-4974-b54c-82cd9ceb421f",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.25,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "895bb1ef-a458-46c6-a829-0ccdc5b18c0a",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 17.2,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "974506a7-d242-4d0e-817d-1e51a13fc2fa",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.15,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "bca11316-6913-428c-9ce3-ed5ff2c3bb94",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "b4b0af1d-2942-42fa-8d37-5c9bbf2cad22",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 17.35,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "10a4ea91-8c27-4bad-8f11-0246706a50f1",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.4,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "93629325-8a5d-48e6-aa81-e15a56e3f316",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.85,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "c819207d-4a1e-4d6f-bff7-f5b907e2a0d1",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.3,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "e3a5b725-e3f3-495e-b89a-870e4c51a139",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 12.4,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "6a3b7dd9-2203-45c5-a5f1-45005fa650ca",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 13.45,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:05"
+    },
+    {
+        "id": "93c646b9-c57e-43c4-b14e-1e35b37baf8e",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.0,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:05"
+    },
+    {
+        "id": "c0c95a4d-97aa-4147-9a18-a6811b48af53",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.15,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "4da5acc4-9572-4be4-85cc-eae1e6a388aa",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 11.65,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:05"
+    },
+    {
+        "id": "5f381b5d-7d6d-47c1-8952-44ae38209233",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 15.7,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "5cf4d84c-0fc0-414f-8241-4c7b235eba0b",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.3,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "ec349858-3d36-4cd0-9882-58aabe5c4517",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 10.6,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "4c2f8bd1-2354-4fd4-8e20-e0e893d0333c",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 16.6,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:53:04"
+    },
+    {
+        "id": "188ff8a8-8861-4c34-894d-75f2692f5218",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:29"
+    },
+    {
+        "id": "5d83696e-88f7-458c-8493-435a525c2659",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:29"
+    },
+    {
+        "id": "84288086-9ddb-4bd6-ad7e-fdbb1361903b",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:32"
+    },
+    {
+        "id": "fb8660c2-4d00-4254-92eb-8038327ef974",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:38"
+    },
+    {
+        "id": "cbef835a-d925-46fc-9ff9-71abcfa6d855",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:38"
+    },
+    {
+        "id": "f2295b67-eb20-4d90-8e75-130eedbf4eb9",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:44"
+    },
+    {
+        "id": "aff426f6-a0fa-4b6a-a9aa-59dba43001c2",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:45"
+    },
+    {
+        "id": "1443331d-5ad9-43ad-9903-f1ff4a3195c5",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:50"
+    },
+    {
+        "id": "bf39eaa0-1ee0-4646-a779-931f0da5813b",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:55:56"
+    },
+    {
+        "id": "3f7df629-9879-4bfa-bdd7-31fbbc9f2fba",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:00"
+    },
+    {
+        "id": "35885d85-5939-490e-a55b-6f28437bdc82",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:07"
+    },
+    {
+        "id": "b9341717-ab87-4fd7-860d-89fd3a452f95",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:13"
+    },
+    {
+        "id": "c2e38271-475a-4768-972c-1c2950f37cea",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:14"
+    },
+    {
+        "id": "9128ac3d-bb05-44c9-b979-c54fe7a4a438",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:25"
+    },
+    {
+        "id": "9afa73a5-29de-4190-ba94-4df6f8bf38ff",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:31"
+    },
+    {
+        "id": "e5bcc419-a7a0-492a-9033-a3a91a220ce3",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:44"
+    },
+    {
+        "id": "f488c039-735d-4d9a-8f9a-9356f62f372a",
+        "cuenta_origen_id": 2,
+        "cuenta_destino_id": 1,
+        "monto": 2.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:46"
+    },
+    {
+        "id": "ac8e7a25-d9b4-4d44-919b-a6d08287eceb",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:49"
+    },
+    {
+        "id": "452f8595-4914-499b-8840-4ab08c15e815",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:49"
+    },
+    {
+        "id": "a9339d83-645a-4b3e-947e-e3b892e7d7c2",
+        "cuenta_origen_id": 1,
+        "cuenta_destino_id": 2,
+        "monto": 1.5,
+        "estado": "COMPLETADA",
+        "fecha_transaccion": "2026-10-12 00:56:50"
     }
 ]
